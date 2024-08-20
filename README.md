@@ -2,8 +2,8 @@
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
 #### *You can also take a look at my Linkedin : [PreethiGomathy](https://www.linkedin.com/in/preethigomathym)* <br />
 
-- [x] **Power BI** - 
-  - Bank Loan Analysis Project<br />
+- [x] **Power BI + SQL** - 
+  - Bank Loan Analysis Project <br />
 *Review the Full Project:* **[HERE](https://github.com/PreethiGomathy/Bank-Loan-Analysis--PowerBI.git)**<br />
 
 ![Dashboard](https://github.com/PreethiGomathy/Bank-Loan-Analysis--PowerBI/blob/main/Dashboard/p1.png)
