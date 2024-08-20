@@ -2,20 +2,21 @@
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
 #### *You can also take a look at my Linkedin : [PreethiGomathy](https://www.linkedin.com/in/preethigomathym)* <br />
 
+- [x] **Power BI** - 
+  - Bank Loan Analysis Project<br />
+*Review the Full Project:* **[HERE](https://github.com/PreethiGomathy/Bank-Loan-Analysis--PowerBI.git)**<br />
+
+![Dashboard](https://github.com/PreethiGomathy/Bank-Loan-Analysis--PowerBI/blob/main/Dashboard/p1.png)
+![Dashboard](https://github.com/PreethiGomathy/Bank-Loan-Analysis--PowerBI/blob/main/Dashboard/p2.png)
+![Dashboard](https://github.com/PreethiGomathy/Bank-Loan-Analysis--PowerBI/blob/main/Dashboard/p3.png)
 
 
 - [x] **Tableau** - 
-  - Instagram Clone Data Analysis Project<br />
+  - Credit Card Complaint Analysis Project<br />
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/creditcomplaint/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**<br />
 *Review the Full Project:* **[HERE](https://github.com/PreethiGomathy/Credit-Card-Complaint-Analysis--Tableau.git)**<br />
 
-![Instagram Clone Dashboard](https://github.com/PreethiGomathy/Credit-Card-Complaint-Analysis--Tableau/blob/main/Dashboard.png)
-
-
-
-- [x] **Hadoop (Hive)** - 
-  - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
+![Dashboard](https://github.com/PreethiGomathy/Credit-Card-Complaint-Analysis--Tableau/blob/main/Dashboard.png)
 
 
 
