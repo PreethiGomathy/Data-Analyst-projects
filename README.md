@@ -9,7 +9,7 @@
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/creditcomplaint/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**<br />
 *Review the Full Project:* **[HERE](https://github.com/PreethiGomathy/Credit-Card-Complaint-Analysis--Tableau.git)**<br />
 
-![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
+![Instagram Clone Dashboard](https://github.com/PreethiGomathy/Credit-Card-Complaint-Analysis--Tableau/blob/main/Dashboard.png)
 
 
 
